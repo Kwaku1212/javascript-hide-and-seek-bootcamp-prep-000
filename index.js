@@ -9,5 +9,5 @@ function nestedTarget(){
 }
 
 function increaseRankBy(n){
-  var query = document.
+  var query = document.getElementBy
 }
